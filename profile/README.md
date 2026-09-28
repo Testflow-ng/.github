@@ -28,6 +28,4 @@ Each project has its own setup guide. For a complete local environment, start th
 
 We welcome thoughtful improvements. Please open an issue to discuss larger changes before submitting a pull request.
 
----
 
-Built for better assessment experiences.
