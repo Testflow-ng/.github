@@ -1,6 +1,6 @@
 # Testflow
 
-Testflow is a modern, mobile-first computer-based testing platform built to make examinations simple, reliable, and accessible for students and institutions.
+Testflow is a computer-based testing platform built to make examinations simple, reliable, and accessible for students in Obafemi Awolowo University.
 
 ## What we build
 
